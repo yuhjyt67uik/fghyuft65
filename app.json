@@ -1,6 +1,6 @@
 {
-    "name": "githubname",
-    "description": "githubname",
+    "name": "yuhjyt67uik",
+    "description": "yuhjyt67uik",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "66933154-8ac9-4e6b-9727-82ccb7646a49"
+            "value": "9d85a013-1665-41f1-8385-2bbda538cdbe"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考readme.md中的（5：Caddy主页配置）",
